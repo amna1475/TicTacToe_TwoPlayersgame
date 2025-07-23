@@ -1,4 +1,4 @@
-                                                                                  🎮 Terminal-Based Tic Tac Toe in Python
+ 🎮 Terminal-Based Tic Tac Toe in Python
 
 Welcome to **Tic Tac Toe** — a simple and interactive 2-player game developed using basic Python! This was created as part of a semester project to showcase fundamental programming concepts like conditionals, loops, string formatting, user interaction, and control flow.
 
